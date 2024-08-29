@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá, meu nome é <strong>Matheus!</strong>
 
-<!--
-**mathalber/mathalber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em processo de graduação em Ciências da Computação, estudos direcionados ao Desenvolvimento Front End.
 
-Here are some ideas to get you started:
+<p align="left">
+     Caso queira entrar em contato comigo segue os links:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://www.linkedin.com/in/matheus-a-641318135/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-mendes-0176301a3/" /></a>
+
+  <a href="https://www.instagram.com/math_alber/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavom_sousa/"/></a>
+</p>
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></code>
+<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></code>
+<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></code>
+<code><img height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
+
+## ⭐ Informações sobre minha conta GitHub
+
+[![mathalber](https://github-readme-stats.vercel.app/api?username=mathalber&theme=radical)](https://github.com/mathalber/)
+
+[![mathalber](https://github-readme-stats.vercel.app/api/top-langs/?username=mathalber&hide=html&layout=compact&theme=radical)](https://github.com/mathalber/)
+
